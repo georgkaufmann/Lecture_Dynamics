@@ -1,6 +1,7 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <table>
 <tr><td><img style="height: 150px;" src="images/Forces_gk.jpg"></td>
-<td bgcolor="#CDCDCD">
+<td bgcolor="#CDCDCD" style="width:600px">
 <h1>Dynamical systems in Geosciences</h1>
 <h2>Georg Kaufmann</h2>
 </td>
@@ -44,33 +45,62 @@ Malteserstr. 74-100, 12249 Berlin, Haus D, Raum D127<br>
 
 ## Lectures
 
-The lecture series is compiled as handouts in **pdf** format:
+The lecture series is compiled as handouts in **pdf** format
+(click on title):
 
-- [Lecture 0: Overview](handouts/Lecture_Dynamics_00_Overview_handout.pdf)
-- [Lecture 1: Introduction](handouts/Lecture_Dynamics_01_Introduction_handout.pdf)
-- Lecture 2: Flux
-- Lecture 3: Continuity
-- Lecture 4: Gravity
-- Lecture 5: Motion
-- Lecture 6: Elastic
-- Lecture 7: Viscous
-- Lecture 8: Reactions
-- Lecture 9: Shallow water
+<table>
+<!-- -->
+<tr>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_Dynamics_00_Overview_handout.pdf'>0. Overview</a> <br><img src='images/Forces_gk.jpg' style=width:40mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_Dynamics_01_Introduction_handout.pdf'>1. Introduction</a> <br><img src='images/chapter/chap01.jpg' style=width:40mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_Dynamics_02_Flux_handout.pdf'>2. Flux</a> <br><img src='images/chapter/chap02.jpg' style=width:40mm></td>
+</tr>
+<!-- -->
+<tr>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_Dynamics_03_Continuity_handout.pdf'>3. Continuity</a> <br><img src='images/chapter/chap03.jpg' style=width:40mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_Dynamics_04_Heat_handout.pdf'>4. Heat</a> <br><img src='images/chapter/chap04.jpg' style=width:40mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_Dynamics_05_Gravity_handout.pdf'>5. Gravity</a> <br><img src='images/chapter/chap05.png' style=width:40mm></td>
+</tr>
+<!-- -->
+<tr>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_Dynamics_06_Motion_handout.pdf'>6. Motion</a> <br><img src='images/chapter/chap06.jpg' style=width:40mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_Dynamics_07_Material_handout.pdf'>7. Material</a> <br><img src='images/chapter/chap07.jpg' style=width:40mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_Dynamics_08_Elastic_handout.pdf'>8. Elastic</a> <br><img src='images/chapter/chap08.jpg' style=width:40mm></td>
+</tr>
+<!-- -->
+<tr>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_Dynamics_09_Viscous_handout.pdf'>9. Viscous</a> <br><img src='images/chapter/chap09.jpg' style=width:40mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_Dynamics_10_Viscoelastic_handout.pdf'>10. Viscoelastic</a> <br><img src='images/chapter/chap10.jpg' style=width:40mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href='handouts/Lecture_Dynamics_11_Reactions_handout.pdf'>11. Reactions</a> <br><img src='images/chapter/chap11.png' style=width:40mm></td>
+</tr>
+<!-- -->
+</table>
 
 ## Exercises
 
-The exercises are mainly **jupyter** notebooks, which can be accessed through:
+The exercises are mainly **jupyter** notebooks, which can be accessed interactively through<br>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/georgkaufmann/lecture_dynamics.git/main?filepath=index.ipynb)
 
-- [Juypter notebooks](index.ipynb)
+A list of notebooks can be found here:
+
+- <a href="README_Notebooks.md" target="_blank">List of Juypter notebooks</a>
 
 ## Download
 ```
-git clone https://github.com/georgkaufmann/lecture_iceage.git
+git clone https://github.com/georgkaufmann/lecture_dynamics.git
 ```
-
-## Run interactively with binder
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/georgkaufmann/lecture_dynamics.git/main?filepath=index.ipynb)
 
 ## Versioning
 
