@@ -52,38 +52,38 @@ The lecture series is compiled as handouts in **pdf** format
 <!-- -->
 <tr>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_Dynamics_00_Overview_handout.pdf'>0. Overview</a> <br><img src='images/Forces_gk.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_Dynamics_00_Overview_handout.pdf'>0. Overview</a> <br><img src='images/Forces_gk.jpg' style=width:50mm></td>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_Dynamics_01_Introduction_handout.pdf'>1. Introduction</a> <br><img src='images/chapter/chap01.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_Dynamics_01_Introduction_handout.pdf'>1. Introduction</a> <br><img src='images/chapter/chap01.jpg' style=width:50mm></td>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_Dynamics_02_Flux_handout.pdf'>2. Flux</a> <br><img src='images/chapter/chap02.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_Dynamics_02_Flux_handout.pdf'>2. Flux</a> <br><img src='images/chapter/chap02.jpg' style=width:50mm></td>
 </tr>
 <!-- -->
 <tr>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_Dynamics_03_Continuity_handout.pdf'>3. Continuity</a> <br><img src='images/chapter/chap03.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_Dynamics_03_Continuity_handout.pdf'>3. Continuity</a> <br><img src='images/chapter/chap03.jpg' style=width:50mm></td>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_Dynamics_04_Heat_handout.pdf'>4. Heat</a> <br><img src='images/chapter/chap04.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_Dynamics_04_Heat_handout.pdf'>4. Heat</a> <br><img src='images/chapter/chap04.jpg' style=width:50mm></td>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_Dynamics_05_Gravity_handout.pdf'>5. Gravity</a> <br><img src='images/chapter/chap05.png' style=width:40mm></td>
+<a href='handouts/Lecture_Dynamics_05_Gravity_handout.pdf'>5. Gravity</a> <br><img src='images/chapter/chap05.png' style=width:50mm></td>
 </tr>
 <!-- -->
 <tr>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_Dynamics_06_Motion_handout.pdf'>6. Motion</a> <br><img src='images/chapter/chap06.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_Dynamics_06_Motion_handout.pdf'>6. Motion</a> <br><img src='images/chapter/chap06.jpg' style=width:50mm></td>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_Dynamics_07_Material_handout.pdf'>7. Material</a> <br><img src='images/chapter/chap07.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_Dynamics_07_Material_handout.pdf'>7. Material</a> <br><img src='images/chapter/chap07.jpg' style=width:50mm></td>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_Dynamics_08_Elastic_handout.pdf'>8. Elastic</a> <br><img src='images/chapter/chap08.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_Dynamics_08_Elastic_handout.pdf'>8. Elastic</a> <br><img src='images/chapter/chap08.jpg' style=width:50mm></td>
 </tr>
 <!-- -->
 <tr>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_Dynamics_09_Viscous_handout.pdf'>9. Viscous</a> <br><img src='images/chapter/chap09.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_Dynamics_09_Viscous_handout.pdf'>9. Viscous</a> <br><img src='images/chapter/chap09.jpg' style=width:50mm></td>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_Dynamics_10_Viscoelastic_handout.pdf'>10. Viscoelastic</a> <br><img src='images/chapter/chap10.jpg' style=width:40mm></td>
+<a href='handouts/Lecture_Dynamics_10_Viscoelastic_handout.pdf'>10. Viscoelastic</a> <br><img src='images/chapter/chap10.jpg' style=width:50mm></td>
 <td style="height: 30px;vertical-align:top;text-align:center">
-<a href='handouts/Lecture_Dynamics_11_Reactions_handout.pdf'>11. Reactions</a> <br><img src='images/chapter/chap11.png' style=width:40mm></td>
+<a href='handouts/Lecture_Dynamics_11_Reactions_handout.pdf'>11. Reactions</a> <br><img src='images/chapter/chap11.png' style=width:50mm></td>
 </tr>
 <!-- -->
 </table>
@@ -91,7 +91,9 @@ The lecture series is compiled as handouts in **pdf** format
 ## Exercises
 
 The exercises are mainly **jupyter** notebooks, which can be accessed interactively through<br>
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/georgkaufmann/lecture_dynamics.git/main?filepath=index.ipynb)
+[![Binder (old)](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/georgkaufmann/lecture_dynamics.git/main?filepath=index.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/georgkaufmann/jupyter/main?urlpath=git-pull?repo=https://github.com/georgkaufmann/lecture_dynamics)
 
 A list of notebooks can be found here:
 
